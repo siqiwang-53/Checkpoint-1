@@ -1,0 +1,5 @@
+alice,developers,/bin/bash
+bob,testers,/bin/sh
+# 这是一个注释行
+charlie,managers,
+bad name,developers,/bin/bash
